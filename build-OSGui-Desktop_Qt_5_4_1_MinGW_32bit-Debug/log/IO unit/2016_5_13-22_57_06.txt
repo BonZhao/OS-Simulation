@@ -1,0 +1,51 @@
+ÏµÍ³ÔËÐÐÊ±¼ä£º1240 ms
+ÐÂµÄIOÇëÇó	½ø³Ìpid£º3785	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º1240 ms
+¿ªÊ¼´¦ÀíIOÇëÇó	½ø³Ìpid£º3785	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º2020 ms
+ÐÂµÄIOÇëÇó	½ø³Ìpid£º15768	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º2020 ms
+¿ªÊ¼´¦ÀíIOÇëÇó	½ø³Ìpid£º15768	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º2784 ms
+IOÇëÇó´¦ÀíÍê³É	½ø³Ìpid£º15768	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º2815 ms
+ÐÂµÄIOÇëÇó	½ø³Ìpid£º31302	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º2815 ms
+¿ªÊ¼´¦ÀíIOÇëÇó	½ø³Ìpid£º31302	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º3580 ms
+IOÇëÇó´¦ÀíÍê³É	½ø³Ìpid£º31302	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º3595 ms
+ÐÂµÄIOÇëÇó	½ø³Ìpid£º19416	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º3595 ms
+¿ªÊ¼´¦ÀíIOÇëÇó	½ø³Ìpid£º19416	IOÊ±³¤£º750 ms
+
+ÏÏµÍ³ÔËÐÐÊ±¼ä£º4360 ms
+Ö´ÐÐ½ø³Ì£º22400
+PC£º3	Óï¾äÀàÐÍÂë£º1	²Ù×÷Âë£º1
+Óï¾äÏêÇé£º
+ÆÕÍ¨Óï¾ä£¬Ö´ÐÐÊ±³¤ 1 ms
+
+µÍ³ÔËÐÐÊ±¼ä£º4360 ms
+IOÇëÇó´¦ÀíÍê³É	½ø³Ìpid£º19416	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º4375 ms
+ÐÂµÄIOÇëÇó	½ø³Ìpid£º22400	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º4375 ms
+¿ªÊ¼´¦ÀíIOÇëÇó	½ø³Ìpid£º22400	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º5140 ms
+IOÇëÇó´¦ÀíÍê³É	½ø³Ìpid£º22400	IOÊ±³¤£º750 ms
+
+ÏµÍ³ÔËÐÐÊ±¼ä£º5155 ms
+ÐÂµÄIOÇëÇó	½ø³Ìpid£º3785	IOÊ±³¤£º750 ms
+
